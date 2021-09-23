@@ -1,0 +1,210 @@
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Assignment\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment\Assignment\obj\Debug\Assignment.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\bin\Debug\InfoCards1.dll
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\bin\Debug\Assignment.exe.config
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\bin\Debug\Assignment.exe
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\bin\Debug\Assignment.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\bin\Debug\AssignmentInterfaces.dll
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\bin\Debug\AssignmentInterfaces.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.NewCard.resources
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.exe
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - Copy\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment - Copy\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment - Copy 1\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment - up to date\Assignment\obj\Debug\Assignment.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\bin\Debug\InfoCards1.dll
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\bin\Debug\Assignment.exe.config
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\bin\Debug\Assignment.exe
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\bin\Debug\Assignment.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\bin\Debug\AssignmentInterfaces.dll
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\bin\Debug\AssignmentInterfaces.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.NewCard.resources
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.exe
+\\university.ds.derby.ac.uk\dfs\Student\Home\100536625\Assignment - up to date\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Foundations of Computer Science\Assignment - up to date\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment Version 3\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment Version 4\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment Version 4 - Copy\Assignment\obj\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\bin\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\bin\Debug\Assignment.pdb
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.exe
+C:\Users\ACER\Documents\Assignment Final Version\Assignment\obj\Debug\Assignment.pdb
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\Assignment.exe
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\Assignment.pdb
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.exe
+C:\Users\adami\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.pdb
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\Assignment.exe
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\Assignment.pdb
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.exe
+C:\Users\adami\OneDrive\Documents\C#\Assignment Card detail Store Final Version\Assignment\obj\Debug\Assignment.pdb

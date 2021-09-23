@@ -1,0 +1,6 @@
+Note|example |nothing but an example
+Password|example|example.com|example1|password
+Credit Card|Anthony Joshua|2562-4445-8965-2668|12|2020|12|2022|Mr Joe Bloggs|586
+Debit Card|James Doe|5469-6474-6287-5687|05|2020|06|2023|788874|Mr John Doe|22549465|594
+Credit Card|Alfie King|6376-8736-8736-8234|09|2017|09|2023|Mr Alfie King|356
+Debit Card|George Moorley|7873-8937-9837-4926|05|2020|05|2025|783749|Mr George Moorley|78374384|221
